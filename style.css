@@ -7,7 +7,7 @@ body{
 .paper {
     /* border: 5px solid green; */
     width: 600px;
-    margin: 20px auto;
+    margin: 40px auto;
 }
 
 .paper .clear{
@@ -26,7 +26,7 @@ body{
     height: 560px;
     background-image:
         linear-gradient(
-          90deg, #0008, #fffd, #0008);
+          90deg, #0005, #fffd, #0005);
 }
 
 .paper .shadow-top-left,
